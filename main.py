@@ -1,4 +1,3 @@
-import math
 import random
 #Random Numbers just to test my list "Skills"
 
